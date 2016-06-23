@@ -20,7 +20,7 @@
   * 資料簡介：時尚、美妝相關內容近來在痞客邦有蓬勃發展的趨勢，此資料集中，整理了包含時尚美妝類的：「部落格清單」、「最新文章內容」、「影響力百大部落客」，此外還可搭配分類熱門照片中的時尚美妝類照片，做出各種搭配應用。
   * 資料範圍：約4萬多個部落格，篇精選文章，以及影響力百大部落客名單。
   * [資料細部](./02_fashion_and_beauty/02_data_schema.md)
-  * [資料範例1](./02_fashion_and_beauty/02_article_sample.json)、[資料範例2](./02_fashion_and_beauty/02_blog_list_sample.json)、[資料範例3](./02_fashion_and_beauty/02_top_author_sample.json)
+  * [資料範例1](./02_fashion_and_beauty/02_blog_list_sample.json)、[資料範例2](./02_fashion_and_beauty/02_article_sample.json)、[資料範例3](./02_fashion_and_beauty/02_top_author_sample.json)
   * 完整資料集會再以 Mail 通知
 * PIXNET Open API
   * 資料簡介：所有公開資料不需要認證即可存取；而要操作私人資訊（例如發表文章）則需要使用 OAuth 做認證，你可以透過報名時填寫的 API Key 存取 PIXNET API 而不受存取次數限制，至於 API 可到開發網站上申請。
