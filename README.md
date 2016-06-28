@@ -1,6 +1,6 @@
 <center><h1> Mobile App / Web App Service </h1></center>
 ----
-「痞客邦 PIXNET」旗下產品包含全球最大華文個人媒體聯盟 &lt;痞客邦&gt; 以及全台最具影響力的美妝時尚社群 &lt;styleMe&gt;，擁有大量優質的 UGC (User Generated Content) 內容。今年，除了大眾熟知的吃喝玩樂內容，「痞客邦 PIXNET」將開放豐富的時尚、美妝的精彩元素，期待鼓勵參賽者能夠有更多創新的發想。
+全球最大華文個人媒體聯盟「痞客邦 PIXNET」旗下產品包含全台最大社群服務 <痞客邦> 以及全台最具影響力的美妝時尚社群 <styleMe>，擁有大量優質的 UGC (User Generated Content) 內容。今年，除了大眾熟知的吃喝玩樂內容，「痞客邦 PIXNET」將開放豐富的時尚、美妝的精彩元素，期待鼓勵參賽者能夠有更多創新的發想。
 
 ### 資料說明
 ----
