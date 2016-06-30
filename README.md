@@ -10,7 +10,7 @@
   * [資料細部](./01_hot_picture/01_data_schema.md)
   * [資料範例](./01_hot_picture/01_sample.json)
   * 完整資料集會再以 Mail 通知
-* 時尚、美妝部落客及文章
+* 美妝、時尚部落客及文章
   * 資料簡介：時尚、美妝相關內容近來在「痞客邦PIXNET」有蓬勃發展的趨勢，且另外創立 &lt;styleMe&gt; ，此資料集中，整理了包含時尚美妝類的：「部落格清單」、「最新文章內容」、「影響力百大內容創作者」，此外還可搭配分類熱門照片中的時尚美妝類照片，做出各種搭配應用。
   * 資料範圍：1萬個熱門部落格，30多萬篇精選文章，以及PIXNET[百大社群影響力](https://blogranking.events.pixnet.net/)部落客名單。
   * [資料細部](./02_fashion_and_beauty/02_data_schema.md)
