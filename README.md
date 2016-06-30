@@ -10,17 +10,17 @@
   * [資料細部](./01_hot_picture/01_data_schema.md)
   * [資料範例](./01_hot_picture/01_sample.json)
   * 完整資料集會再以 Mail 通知
-* 分類熱門地點相關文章
-  * 資料簡介：選取全站15個與地理位置較相關的分類(ex.  美食, 活動, 親子...等)，擷取各分類的熱門地點所對應的相關文章。
-  * 資料範圍：包含15個分類，約10萬筆文章內容及相關資料。
-  * [資料細部](./03_hot_location_article/03_data_schema.md)
-  * [資料範例](./03_hot_location_article/03_sample.json)
-  * 完整資料集會再以 Mail 通知
 * 時尚、美妝部落客及文章
   * 資料簡介：時尚、美妝相關內容近來在「痞客邦PIXNET」有蓬勃發展的趨勢，且另外創立 &lt;styleMe&gt; ，此資料集中，整理了包含時尚美妝類的：「部落格清單」、「最新文章內容」、「影響力百大內容創作者」，此外還可搭配分類熱門照片中的時尚美妝類照片，做出各種搭配應用。
   * 資料範圍：1萬個熱門部落格，30多萬篇精選文章，以及PIXNET[百大社群影響力](https://blogranking.events.pixnet.net/)部落客名單。
   * [資料細部](./02_fashion_and_beauty/02_data_schema.md)
   * [資料範例1](./02_fashion_and_beauty/02_blog_list_sample.json)、[資料範例2](./02_fashion_and_beauty/02_article_sample.json)、[資料範例3](./02_fashion_and_beauty/02_top_author_sample.json)
+  * 完整資料集會再以 Mail 通知
+* 分類熱門地點相關文章
+  * 資料簡介：選取全站15個與地理位置較相關的分類(ex.  美食, 活動, 親子...等)，擷取各分類的熱門地點所對應的相關文章。
+  * 資料範圍：包含15個分類，約10萬筆文章內容及相關資料。
+  * [資料細部](./03_hot_location_article/03_data_schema.md)
+  * [資料範例](./03_hot_location_article/03_sample.json)
   * 完整資料集會再以 Mail 通知
 * PIXNET Open API
   * 資料簡介：所有公開資料不需要認證即可存取；而要操作私人資訊（例如發表文章）則需要使用 OAuth 做認證，你可以透過報名時填寫的 API Key 存取 PIXNET API 而不受存取次數限制，至於 API 可到開發網站上申請。
