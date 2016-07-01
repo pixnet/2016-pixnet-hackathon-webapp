@@ -53,6 +53,7 @@
 ```json
 {
     "username": "使用者名稱",
+    "authorid": "使用者ID"
     "url": "文章網址",
     "title": "文章標題",
     "content":"文章內容",
