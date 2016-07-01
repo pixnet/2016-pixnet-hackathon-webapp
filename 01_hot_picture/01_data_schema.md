@@ -84,10 +84,10 @@
             "height": 450
         } 
     },
+    "category" : "分類ID",
     "color": {
         "色碼": "顏色佔圖片比例", 
-    },
-    "category" : "分類ID"
+    }
 }
 ```
 
