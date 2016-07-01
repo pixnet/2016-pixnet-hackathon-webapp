@@ -1,6 +1,6 @@
 <center><h1> Mobile App / Web Service </h1></center>
 ----
-全球最大華文個人媒體聯盟「痞客邦 PIXNET」旗下產品包含全台最大社群服務 <痞客邦> 以及全台最具影響力的美妝時尚社群 <styleMe>，擁有大量優質的 UGC (User Generated Content) 內容。今年，除了大眾熟知的吃喝玩樂內容，「痞客邦 PIXNET」將開放豐富的時尚、美妝的精彩元素，期待鼓勵參賽者能夠有更多創新的發想。
+全球最大華文個人媒體聯盟「痞客邦 PIXNET」旗下產品包含全台最大社群服務 <痞客邦> 以及全台最具影響力的美妝時尚社群 <styleMe>，擁有大量優質的 UGC (User Generated Content) 內容。今年，除了大眾熟知的吃喝玩樂內容，「痞客邦 PIXNET」將開放豐富的美妝、時尚的精彩元素，期待鼓勵參賽者能夠有更多創新的發想。
 
 ### 資料說明
 ----
@@ -11,7 +11,7 @@
   * [資料範例](./01_hot_picture/01_sample.json)
   * 完整資料集會再以 Mail 通知
 * 美妝、時尚部落客及文章
-  * 資料簡介：時尚、美妝相關內容近來在「痞客邦PIXNET」有蓬勃發展的趨勢，且另外創立 &lt;styleMe&gt; ，此資料集中，整理了包含時尚美妝類的：「部落格清單」、「最新文章內容」、「影響力百大內容創作者」，此外還可搭配分類熱門照片中的時尚美妝類照片，做出各種搭配應用。
+  * 資料簡介：美妝、時尚相關內容近來在「痞客邦PIXNET」有蓬勃發展的趨勢，且另外創立 &lt;styleMe&gt; ，此資料集中，整理了包含美妝、時尚類的：「部落格清單」、「最新文章內容」、「影響力百大內容創作者」，此外還可搭配分類熱門照片中的美妝、時尚類照片，做出各種搭配應用。
   * 資料範圍：1萬個熱門部落格，30多萬篇精選文章，以及 痞客邦 PIXNET [百大社群影響力](https://blogranking.events.pixnet.net/)部落客名單。
   * [資料細部](./02_fashion_and_beauty/02_data_schema.md)
   * [資料範例1](./02_fashion_and_beauty/02_blog_list_sample.json)、[資料範例2](./02_fashion_and_beauty/02_article_sample.json)、[資料範例3](./02_fashion_and_beauty/02_top_author_sample.json)
