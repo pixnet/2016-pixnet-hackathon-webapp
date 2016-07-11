@@ -33,6 +33,9 @@
 - 創意綜合評估：應用能否讓現場觀眾評審驚艷，留下深刻印象及反應。
 - 整體完成度：Demo 順暢程度、是否有完整的 User Story。
 
+### 說明影片
+- [影片鏈結](https://youtu.be/mQz6lIZHwkA?t=7m29s)
+
 ### 相關參考資料
 ----
 - JSON 格式請參考 http://json.org/
